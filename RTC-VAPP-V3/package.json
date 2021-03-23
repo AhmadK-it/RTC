@@ -1,0 +1,26 @@
+{
+  "name": "RTC-VAPP-V3",
+  "version": "1.0.0",
+  "description": "My version of real time apps",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Ahmad KH",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "peer": "^0.6.1",
+    "peerjs": "^1.3.2",
+    "serve-favicon": "^2.5.0",
+    "socket.io": "^4.0.0",
+    "uuid": "^8.3.2"
+  }
+}

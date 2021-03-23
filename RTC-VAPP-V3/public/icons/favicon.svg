@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <clipPath id="clip-SPRK_default_preset_name_custom_1">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="SPRK_default_preset_name_custom_1" data-name="SPRK_default_preset_name_custom – 1" clip-path="url(#clip-SPRK_default_preset_name_custom_1)">
+    <g id="Face" transform="translate(24 9)" fill="#fff" stroke="#707070" stroke-width="1">
+      <ellipse cx="77.5" cy="91.5" rx="77.5" ry="91.5" stroke="none"/>
+      <ellipse cx="77.5" cy="91.5" rx="77" ry="91" fill="none"/>
+    </g>
+    <path id="eye_1" data-name="eye 1" d="M30.5,61A30.508,30.508,0,0,1,18.628,2.4,30.508,30.508,0,0,1,42.372,58.6,30.308,30.308,0,0,1,30.5,61ZM31,5A26,26,0,1,0,57,31,26.029,26.029,0,0,0,31,5Z" transform="translate(106 39)"/>
+    <path id="eye_2" data-name="eye 2" d="M30.5,61A30.508,30.508,0,0,1,18.628,2.4,30.508,30.508,0,0,1,42.372,58.6,30.308,30.308,0,0,1,30.5,61ZM31,5A26,26,0,1,0,57,31,26.029,26.029,0,0,0,31,5Z" transform="translate(34 39)"/>
+    <path id="inside_1" data-name="inside 1" d="M10,18C4.486,18,0,13.963,0,9S4.486,0,10,0,20,4.037,20,9,15.514,18,10,18Zm.5-11C8.57,7,7,8.122,7,9.5S8.57,12,10.5,12,14,10.879,14,9.5,12.43,7,10.5,7Z" transform="translate(127 61)" fill="#0f0d0d"/>
+    <path id="inside_2" data-name="inside 2" d="M10,18C4.486,18,0,13.963,0,9S4.486,0,10,0,20,4.037,20,9,15.514,18,10,18Zm.5-11C8.57,7,7,8.122,7,9.5S8.57,12,10.5,12,14,10.879,14,9.5,12.43,7,10.5,7Z" transform="translate(55 61)" fill="#0f0d0d"/>
+    <path id="smile" d="M-159,112a50.082,50.082,0,0,1-13.781-1.923,49.748,49.748,0,0,1-12.307-5.414A50.22,50.22,0,0,1-203.145,85.5,55.059,55.059,0,0,0-162,104a55.174,55.174,0,0,0,52.966-40.129,49.608,49.608,0,0,1-4.427,18.8,49.893,49.893,0,0,1-10.8,15.29A49.75,49.75,0,0,1-159,112Z" transform="translate(256.089 50.629)"/>
+    <path id="GlassHandle" d="M139.251,3.5l7.5,2.5Zm-133,0-6,2ZM139,.5,146.5,3ZM66.75,3h0ZM6,.5l-6,2ZM66.5,0h0Z" transform="translate(28 69.5)" fill="rgba(0,0,0,0)" stroke="#707070" stroke-width="1"/>
+    <path id="noise" d="M-177.237,51.5h-5.238c6.456-2.612,11.645-8.543,14.238-16.274V42.5A9.01,9.01,0,0,1-177.237,51.5Z" transform="translate(269.237 63)" fill="#040404"/>
+  </g>
+</svg>
